@@ -1,0 +1,306 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+
+  <!-- localcss -->
+  <link rel="stylesheet" type="text/css" href="./style.css">
+  <!-- localcss -->
+  <link rel = "icon" href = 
+  "https://cdn.sanity.io/images/wd3e2pma/production/7b336dc26fd85ae98b414761d58238d225876a88-60x48.svg" 
+  type = "image/x-icon">
+  <title>Enterprise . Zepline</title>
+</head> 
+<body>
+
+  <nav class="navbar navbar-expand-lg  sticky-top  bg-white navbar-light ">
+    <div class="container-fluid m-3 mx-5 pt-2 pb-4">
+     <img  src="https://cdn.sanity.io/images/wd3e2pma/production/7b336dc26fd85ae98b414761d58238d225876a88-60x48.svg" alt="Zeplin" width="60" height="48">
+     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-md-end" id="navbarNavDropdown">
+      <ul class="navbar-nav ms-auto ">
+        <li class="nav-item  mx-2 px-2 " >
+          <a class="nav-link" aria-current="page" href="#">Why Zepil?</a>
+        </li>
+
+        <li class="nav-item  mx-2 px-2 ">
+         <a class="nav-link a" aria-current="page" href="#">Figma pilgin</a>
+       </li>
+
+       <li class="nav-item mx-2 px-2 ">
+        <a class="nav-link" href="#">Pricing</a>
+      </li>
+      <li class="nav-item mx-2 px-2 ">
+        <a class="nav-link" href="#">Enterprise</a>
+      </li>
+
+      <li class="nav-item mx-2 px-2 ">
+        <a class="nav-link" href="#">login</a>
+      </li>
+      <li class="nav-item mx-2  px-1 ">
+        <a class="nav-link" href="#">Sing up for free</a>
+      </li>
+    </ul> 
+  </div>
+</div>
+</nav>
+
+<div class="container mx-auto pt-4 row featurette">
+  <div class="col-md-9 opacity-75 my-auto">
+   <h1 class="display-5 fw-bold pt-5 my-4">Design Delivery for the Enterprise</h1>
+   <p class="lead fs-3 pt-2">Enterprises rely on Zeplin to go from beautiful designs to beautiful products."
+   </p> 
+   <button class="btn btn-primary btn-lg p-3 fs-4 my-4" type="button">Example button</button>
+ </div>
+ <div class="col-md-3 my-auto">
+  <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" style="height: 300px;" role="img" src="https://static.vecteezy.com/system/resources/previews/007/004/268/large_2x/embrace-social-media-concept-icon-vector.jpg" width="400"><title>Placeholder</title>
+</div>
+</div>
+
+<div class="">
+  <div class="container mt-5 mb-5 py-3 border border-light" style="background-color: #f7f7f7;">
+    <div class="timeline-image d-flex justify-content-xl-center  py-3 "><img class="rounded-circle img-fluid" style=" border: 4px solid white; outline-style: solid; outline-color: grey; height: 120px; width: 120px" src="https://cdn.sanity.io/images/wd3e2pma/production/54edfa0fb9a9d7482f41600ca3153979a2ac4a24-360x360.png?w=120&q=85&auto=format" alt="...">
+      <div class="timeline-panel ps-5 text-muted">
+        <div class="timeline-heading ">
+         <blockquote class="m-0 fs-4 fw-bold fst-italic"><p>Zeplin has been a great addition to our product toolkit, ultimately<br> allowing us to increase our speed to market.</p></blockquote>
+       </div>
+       <div class="timeline-body"><p class="text-muted"><h5>Tyler Stafford, Manager, Digital Operations & Innovation</h5></p>
+       </div>
+     </div>
+   </div>
+   <div class=" d-flex justify-content-around"> <img  src="https://cdn.sanity.io/images/wd3e2pma/production/a4599f74161c88ae024b0d1702f9e72a66520e0e-85x30.svg" alt="audi">
+
+     <img style="height: 60px; width: 60px;" src="dot.png.png" alt="">
+   </div>
+ </div>
+</div>
+
+<div class=" row flex-lg-row-reverse  m-5 py-5 d-flex ">
+  <div class="col-10 col-sm-8 col-lg-6">
+    <img src="https://cdn.sanity.io/images/wd3e2pma/production/862f12d6eac6e4f461f3e363e7508d209b59c2d4-1536x1920.jpg?w=512&q=85&auto=format" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" loading="lazy" width="500" height="500">
+  </div>
+  <div class="col-lg-6 text-muted ">
+    <div><h3 class="fw-bold text-danger py-3">Demystify design intention</h3></div>
+    <div >
+      <h2 class=" fw-bold lh-1 mb-3">Version History</h2>
+      <p class="lead py-3">Designers can effortlessly create Flows to show all possible user paths and behaviors. Organize screens with Groups and create Boards to improve collaboration across complex projects..</p>
+    </div>
+    <div>
+      <h2 class=" fw-bold lh-1 mb-3">Specs by Developers for Developers</h2>
+      <p class="lead py-3">Designers can control when to publish a new version, along with Commit Messages to provide clarity on what has changed between iterations..</p>
+    </div>
+    <div>
+      <h2 class=" fw-bold lh-1 mb-3">User Journeys</h2>
+      <p class="lead py-3">Of course, Zeplin also provides technical specs & code snippets that developers will actually want to use.</p>
+    </div>
+  </div>
+</div>
+
+<div class=" row flex-lg-row-reverse  m-5 py-5 d-flex ">
+  <div class="col-lg-6 text-muted ">
+    <div><h3 class="fw-bold text-danger py-3">Unlock the multidisciplinary of the team</h3></div>
+    <div >
+      <h2 class=" fw-bold lh-1 mb-3">Inclusive Collaboration</h2>
+      <p class="lead py-3">Zeplin provides a design workspace that is friendly to non-designers. Developers, UX Writers, PMs and more use Zeplin to collaborate easily. No orientation needed..</p>
+    </div>
+    <div>
+      <h2 class=" fw-bold lh-1 mb-3">Structured Design Workspace</h2>
+      <p class="lead py-3">Convert the creative canvas of design tools to a structured workspace where the team can collaborate.</p>
+    </div>
+    <div>
+      <h2 class=" fw-bold lh-1 mb-3">Supercharge Feedback</h2>
+      <p class="lead py-3">Providing and managing feedback is entirely different in Zeplin. Aggregate comments at the screen level and use filters to manage it all easily.</p>
+    </div>
+  </div>
+  <div class="col-10 col-sm-8 col-lg-6">
+    <img src="https://cdn.sanity.io/images/wd3e2pma/production/2385986340b89a7a6c3ea5d0d55bedfb5c370ba2-1536x1920.jpg?w=512&q=85&auto=format" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" loading="lazy" width="500" height="500">
+  </div>
+</div>
+
+<div class="">
+  <div class="container mt-5 mb-5 py-3 border border-light" style="background-color: #f7f7f7;">
+    <div class="timeline-image d-flex justify-content-xl-center mx-3 py-3 "><img class="rounded-circle img-fluid" style=" border: 4px solid white; outline-style: solid; outline-color: grey; height: 120px; width: 120px" src="https://cdn.sanity.io/images/wd3e2pma/production/9b479193cb19624f2aa5f61421d68e4ac27afcb0-360x360.png?w=120&q=85&auto=format" alt="...">
+      <div class="timeline-panel ps-5 text-muted">
+        <div class="timeline-heading ">
+         <blockquote class="m-0 fs-4 fw-bold fst-italic"><p>Translating the wall of screens in Figma to an organized hierarchy in Zeplin connects the designers’ creative work to the developers’ production work, it’s a critical step in our workflow.</p></blockquote>
+       </div>
+       <div class="timeline-body"><p class="text-muted"><h5>Tyler Stafford, Manager, Digital Operations & Innovation</h5></p>
+       </div>
+     </div>
+   </div>
+   <div class=" d-flex justify-content-around"> <img  src="https://cdn.sanity.io/images/wd3e2pma/production/065adc469bb385aab1aaea98fe6809cc6da485e9-206x35.svg" alt="audi">
+     <img style="height: 60px; width: 60px;" src="dot.png.png" alt="">
+   </div>
+ </div>
+</div>
+
+<div class=" row flex-lg-row-reverse  m-5 py-5 d-flex ">
+  <div class="col-10 col-sm-8 col-lg-6">
+    <img src="https://cdn.sanity.io/images/wd3e2pma/production/551090d74cc4c647a425b2a4d5e281926d7fce68-1536x1920.jpg?w=512&q=85&auto=format" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" loading="lazy" width="500" height="500">
+  </div>
+  <div class="col-lg-6 text-muted ">
+    <div><h3 class="fw-bold text-danger py-3">Drive Automation & Scale</h3></div>
+    <div >
+      <h2 class=" fw-bold lh-1 mb-3">Extend Design Systems & Connect to Code</h2>
+      <p class="lead py-3">Surface reusable components for developers, removing those design system silos, and connect to running code.</p>
+    </div>
+    <div>
+      <h2 class=" fw-bold lh-1 mb-3">Connect to Your Tools</h2>
+      <p class="lead py-3">Zeplin works alongside the tools you use every day, like Slack, Jira, Storybook, VS Code and many more.</p>
+    </div>
+    <div>
+      <h2 class=" fw-bold lh-1 mb-3">Build Custom Workflows</h2>
+      <p class="lead py-3">Since every workflow is unique, you can build custom workflows using the Zeplin API, webhooks, and Zapier integrations to achieve the custom solution you want.</p>
+    </div>
+  </div>
+</div>
+
+<div class="">
+  <div class="container mt-5 mb-5 py-3 border border-light" style="background-color: #f7f7f7;">
+    <div class="timeline-image d-flex justify-content-xl-center mx-3 py-3 "><img class="rounded-circle img-fluid" style=" border: 4px solid white; outline-style: solid; outline-color: grey; height: 120px; width: 120px" src="https://cdn.sanity.io/images/wd3e2pma/production/c624d8910fe1dc77a2821fc510c975a0f8c05ebc-360x360.png?w=120&q=85&auto=format" alt="...">
+      <div class="timeline-panel ps-5 text-muted">
+        <div class="timeline-heading ">
+         <blockquote class="m-0 fs-4 fw-bold fst-italic"><p>Translating the wall of screens in Figma to an organized hierarchy in Zeplin connects the designers’ creative work to the developers’ production work, it’s a critical step in our workflow.</p></blockquote>
+       </div>
+       <div class="timeline-body"><p class="text-muted"><h5>Tyler Stafford, Manager, Digital Operations & Innovation</h5></p>
+       </div>
+     </div>
+   </div>
+   <div class=" d-flex justify-content-around"> <img  src="https://cdn.sanity.io/images/wd3e2pma/production/41da95b41d8a608591d9f84fe2b61068eb7a53c9-168x38.svg" alt="audi">
+     <img style="height: 60px; width: 60px;" src="dot.png.png" alt="">
+   </div>
+ </div>
+</div>
+
+<div class=" row flex-lg-row-reverse  m-5 py-5 d-flex ">
+  <div class=" col-lg-6 text-muted ">
+    <div class="two-columns-content ">
+     <h2 class=" fw-bold py-3">Enterprise Security &amp; Control</h2>
+     <div class="fs-5">
+       <p>Security and protection of customer data is a top priority here at Zeplin. We keep your designs safe and confidential by leveraging industry standard security solutions and best practices:</p>
+       <p>- SAML single sign on
+        <br>- SCIM User Provisioning
+        <br>- Domain Capture
+        <br>- IP Protection
+        <br>- Security Review*
+        <br>- Optional PEN Test*
+        <br>- SOC 2 Attestation</p>
+        <p>*Included with Zeplin Enterprise Premier plan only with a minimum annual contract spend required</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-10 col-sm-8 col-lg-6">
+    <img src="https://cdn.sanity.io/images/wd3e2pma/production/982013abe677bea24ab1a55a75596fc6510e867b-1536x1536.jpg?w=512&q=85&auto=format" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" loading="lazy" width="500" height="500">
+  </div>
+</div>
+
+<div class="p-3   rounded-3">
+  <div class="container-fluid text-center ">
+    <h1 class="display-5 fw-bold py-5">Design Delivery with Zeplin</h1>
+    <button class="btn btn-primary fs-4 btn-lg p-3 mb-5" type="button">Get in touch</button>
+  </div>
+</div>
+
+<div class="container mx-auto py-5">
+  <div class="row g-3 py-5">
+    <div class="col-sm-4">
+      <div class="">
+       <img style="height: 250px; width: 100%;" src="https://cdn.sanity.io/images/wd3e2pma/production/8c37cfa548b83afca95264b16f7c720aed5fdbbb-1522x600.jpg?w=507&q=85&auto=format">
+       <div class="card-body">
+        <div class="fs-5">Blog post</p>
+          <h3 class=" fw-bold">Design Delivery isn’t new — it’s just more important than ever</h3>
+          <div class=" text-muted">
+            <p>Zeplin co-founder and CEO Pelin Kenez explains why Design Delivery is a critical step in the process of bringin a product to life.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-4">
+    <div class="">
+     <img style="height: 250px; width: 100%; " src="https://cdn.sanity.io/images/wd3e2pma/production/1ec5d1afcf8047410154ce1d707d7d885746ec2b-1400x552.png?w=467&q=85&auto=format">
+     <div class="card-body">
+       <div class="fs-5">Product New</p>
+        <h3 class=" fw-bold">Introducing Component Variants, Zapier Integration & new Notification Experience</h3>
+        <div class=" text-muted">
+          <p>We’re thrilled to announce a new set of features that will help product teams work together to build amazing products.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="col-sm-4">
+  <div class="">
+   <img style="height: 250px; width: 100%;" src="https://cdn.sanity.io/images/wd3e2pma/production/2b17610da8cc9d3a0d9b07fadd144d9dd4a12395-1522x600.jpg?w=507&q=85&auto=format">
+   <div class="card-body">
+    <div class="fs-5">Coustomer Story</p>
+      <div class=" text-muted">
+        <p>Here’s how digital agency Superformula delivered large-scale web and native app projects for MGM resorts using Figma and Zeplin.</p>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<footer class="container py-5">
+  <div class="row">
+    <div class="col-12 col-md">
+     <img  src="https://cdn.sanity.io/images/wd3e2pma/production/7b336dc26fd85ae98b414761d58238d225876a88-60x48.svg" alt="Zeplin" width="60" height="48">
+     <small class="d-block mb-3 text-muted">© 2017–2021</small>
+   </div>
+   <div class="col-6 col-md">
+    <h5>Features</h5>
+    <ul class="list-unstyled text-small">
+      <li><a class="link-secondary" href="#">Cool stuff</a></li>
+      <li><a class="link-secondary" href="#">Random feature</a></li>
+      <li><a class="link-secondary" href="#">Team feature</a></li>
+      <li><a class="link-secondary" href="#">Stuff for developers</a></li>
+      <li><a class="link-secondary" href="#">Another one</a></li>
+      <li><a class="link-secondary" href="#">Last time</a></li>
+    </ul>
+  </div>
+  <div class="col-6 col-md">
+    <h5>Resources</h5>
+    <ul class="list-unstyled text-small">
+      <li><a class="link-secondary" href="#">Resource name</a></li>
+      <li><a class="link-secondary" href="#">Resource</a></li>
+      <li><a class="link-secondary" href="#">Another resource</a></li>
+      <li><a class="link-secondary" href="#">Final resource</a></li>
+    </ul>
+  </div>
+  <div class="col-6 col-md">
+    <h5>Resources</h5>
+    <ul class="list-unstyled text-small">
+      <li><a class="link-secondary" href="#">Business</a></li>
+      <li><a class="link-secondary" href="#">Education</a></li>
+      <li><a class="link-secondary" href="#">Government</a></li>
+      <li><a class="link-secondary" href="#">Gaming</a></li>
+    </ul>
+  </div>
+  <div class="col-6 col-md">
+    <h5>About</h5>
+    <ul class="list-unstyled text-small">
+      <li><a class="link-secondary" href="#">Team</a></li>
+      <li><a class="link-secondary" href="#">Locations</a></li>
+      <li><a class="link-secondary" href="#">Privacy</a></li>
+      <li><a class="link-secondary" href="#">Terms</a></li>
+    </ul>
+  </div>
+</div>
+</footer>
+</body>
+</html>

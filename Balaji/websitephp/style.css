@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+
+
+
+.nav-item{
+
+font-weight: bolder ;
+
+}
+
+.mainbg{  background-image:url(sarfaraz.png.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+   
+ }
+
+
+.card1{ background-image: url(https://images.hdqwalls.com/download/asus-rog-phone-3-29-766x968.jpg);
+
+background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+
+.card2{ background-image: url(https://images.hdqwalls.com/download/3d-heart-abstract-shape-zc-1366x1068.jpg);
+
+background-repeat: no-repeat;
+  background-attachment: fixed;
+   background-position: center; 
+
+}
+
+.card3{ background-image: url(https://images.hdqwalls.com/download/you-and-me-forever-together-0v-1366x1068.jpg);
+
+background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right;
+
+}
+
+body{
+
+	    font-family: 'Varela Round', sans-serif;
+}

@@ -1,0 +1,77 @@
+/*.bg1{ background: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0)); }*/
+
+.bg1{ background:white; }
+
+.logo1 { background-position: center; background-image: url(https://images.hdqwalls.com/download/chocolate-love-wide-36x68.jpg);  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+
+       }
+
+.png {  height: 40px;
+       width: 40px;
+     }
+
+
+.logo{ height: 60px; 
+	    width: 60px;
+      }   
+
+
+      .vr {
+  display: inline-block;
+  width: 2px;
+  min-height:1.5em;
+  opacity:20%;
+  background-color: currentColor;
+ }
+
+ .ter{
+
+   height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  display: inline-block;
+ }
+ 
+ .bg{
+ 	background-image: url(https://images.hdqwalls.com/download/banana-minimal-5k-dq-1366x470.jpg);
+  border: 2px;
+  border-radius: 15px;
+
+ }
+
+ .b1{
+ 	border-radius: 30px;
+  font-size: 15px;
+ }
+
+ .b2{
+ 	border-radius: 30px;
+    font-size: 15px;
+ }
+ .i1{ 
+  background-image: url(https://images.hdqwalls.com/wallpapers/dressed-fox-with-tea-and-cake-aa.jpg);
+  border-radius: 20px;}
+
+.i2{ 
+    background-image: url(https://images.hdqwalls.com/wallpapers/dressed-fox-with-tea-and-cake-aa.jpg);
+    border-radius: 20px; }
+
+.i3{
+     background-image: url(https://images.hdqwalls.com/wallpapers/dressed-fox-with-tea-and-cake-aa.jpg);
+     border-radius: 20px; }
+
+.i4{
+     background-image: url(https://images.hdqwalls.com/wallpapers/dressed-fox-with-tea-and-cake-aa.jpg);
+     border-radius: 20px; }
+
+.i5{
+    background-image: url(https://images.hdqwalls.com/wallpapers/dressed-fox-with-tea-and-cake-aa.jpg);
+    border-radius:  20px; }
+
+
+    .te1{
+
+      font-size: 15px;
+    }

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset=UTF-8>
+	<title>Hello World!</title>
+</head>
+<body>
+
+	<?php
+
+	if (isset($_FILE['image'])) {
+
+		$file_name = $_FILE['image']['name'];
+		$file_size = $_FILE['image']['size'];
+		$file_tmp = $_FILE['image']['tmp'];
+		$file_type = $_FILE['image']['type'];
+
+
+		if (move_uploaded_file($file_tmp,"uplod-image/". $file_name)) {
+
+			echo "successfully upload";}
+			else{ echo "nahi hue bhai try again";}
+		}
+	}
+	?>
+
+	<form method="post" action="" enctype="multipart/form-data">
+
+		<input type="file" name="image"/><br><br>
+		<input type="submit">
+
+	</form>
+
+
+
+
+
+
+
+</body>
+</html>
